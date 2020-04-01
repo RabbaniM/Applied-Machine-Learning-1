@@ -13,3 +13,5 @@ Here are my notebooks from office hours during the Emeritus and Columbia Univers
 - Week 9: [Recommendation Systems I: Distance based methods](w9.ipynb)
 - Week 10: [SVD for Recommendations and Text and Topic Models](w10.ipynb)
 - Week 11: [PCA and Image Classification](pca.ipynb)
+- Week 12: [Coronavirus Data, Map, and ARIMA Model](w12.ipynb)
+
